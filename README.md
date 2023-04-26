@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there, I'm [Abdur Razzaque] 👋
 
-<!--
-**MDARH/MDARH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer with experience working with Laravel, Vue, and React. I have a passion for creating beautiful and responsive user interfaces that provide a great user experience.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Develop responsive and accessible user interfaces using HTML, CSS, and JavaScript
+- Use modern front-end frameworks like Vue and React to build scalable and modular applications
+- Work with back-end developers to design and implement server-side APIs and databases
+- Write clean and maintainable code that follows industry best practices and coding standards
+- Continuously learn and stay up-to-date with the latest web development technologies and trends
+
+## My Skills
+
+- HTML5
+- CSS3 and CSS preprocessors (Sass/Less)
+- JavaScript and ES6
+- Vue.js and React.js
+- Laravel and PHP
+- Node.js and Express
+- MySQL and MongoDB
+- Git and GitHub
+- Responsive web design and accessibility
+
+## How to reach me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarh411/) or via email at your-email@domain.com.
+
+Thanks for visiting my GitHub profile!
