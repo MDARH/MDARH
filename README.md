@@ -15,15 +15,17 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 - HTML5
 - CSS3 and CSS preprocessors (Sass/Less)
 - JavaScript and ES6
+- TailwindCSS and Bootstrap
 - Vue.js and React.js
 - Laravel and PHP
 - Node.js and Express
 - MySQL and MongoDB
 - Git and GitHub
 - Responsive web design and accessibility
+- Hosting Management with cPanel and VPS
 
 ## How to reach me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarh411/) or via email at your-email@domain.com.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarh411/) or via email at mdarh411@gmail.com.
 
 Thanks for visiting my GitHub profile!
