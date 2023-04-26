@@ -12,7 +12,8 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 
 ## Language Skills
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/ultraviolet/48/000000/css-filetype.png"/>
+![html 5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS 3](https://img.icons8.com/ultraviolet/48/000000/css-filetype.png)
 <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/ios/50/FFFFFF/php-logo.png"/>
 
