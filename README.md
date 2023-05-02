@@ -37,6 +37,7 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 - ![BSCWSociety](https://www.bscwsociety.org/)
 - ![Ak Halal Food](https://akhalalfood.com/)
 - ![Believe One IT](https://believeoneit.com/)
+- [![Website Preview](https://i.imgur.com/1FABeeU.png)]([https://www.example.com/](https://believeoneit.com/))
 - 
 ## How to reach me
 
