@@ -25,10 +25,11 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Laravel](https://img.icons8.com/windows/48/FF4E4E/laravel.png)
 
-## Management Skills
+## Management Tools
 
-![Laravel](https://img.icons8.com/color/48/000000/git.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/ios-filled/48/FFFFFF/github.png)
+![Laragon](https://laragon.org/logo.svg)
 
 ## Projects
 
