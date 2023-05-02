@@ -39,7 +39,7 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 - [Ak Halal Food](https://akhalalfood.com/)
 - [Believe One IT](https://believeoneit.com/)
 
-## Studay
+## Study
 - I completed my HSC/Alim Examination at 2017 from Nur-e Mohammadia (SM) Madarasha, Bashaboo, Dhaka.
 - I Completed SSC/Dakhil Examination at 2014 from Nabiabad Islamia Dakhil Madrasha, Nandipara, Dhaka.
 
