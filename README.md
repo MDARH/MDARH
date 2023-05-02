@@ -48,7 +48,7 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 - Web Development Course Completed from [Creative IT Institute](https://www.creativeitinstitute.com/) at 2017 about 6 Months.
   - Course was designed with HTML, CSS, PHP, Wordpress, Codeignator and Laravel.
 - Web Development Course Running on [Programming Hero](https://web.programming-hero.com/)
-  - Course about HTML, CSS, Vanilla JavaScript, React, Vite, React Router, Firebase and many more.
+  - Course about HTML, CSS, JavaScript, React, Vite, React Router, Firebase and many more.
 
 ## How to reach me
 
