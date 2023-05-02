@@ -31,14 +31,10 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 ![GitHub](https://img.icons8.com/ios-filled/48/FFFFFF/github.png)
 
 ## Projects
-- ![Zippy Footware](https://zippyfootware.com/)
-- ![PathSala](https://pathshala-cbs.com/)
-- ![Coral Condoms](https://coralcondoms-bd.com/)
-- ![BSCWSociety](https://www.bscwsociety.org/)
-- ![Ak Halal Food](https://akhalalfood.com/)
-- ![Believe One IT](https://believeoneit.com/)
-- [![Website Preview](https://i.imgur.com/1FABeeU.png)]([https://www.example.com/](https://believeoneit.com/))
-- 
+
+- [![Website Preview](https://i.imgur.com/1FABeeU.png)](https://believeoneit.com/)
+
+
 ## How to reach me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarh411/) or via email at mdarh411@gmail.com.
