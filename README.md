@@ -32,7 +32,12 @@ I'm a full-stack web developer with experience working with Laravel, Vue, and Re
 
 ## Projects
 
-- [![Website Preview](https://i.imgur.com/1FABeeU.png)](https://believeoneit.com/)
+- [Zippy Footware](https://zippyfootware.com/)
+- [PathSala](https://pathshala-cbs.com/)
+- [Coral Condoms](https://coralcondoms-bd.com/)
+- [BSCWSociety](https://www.bscwsociety.org/)
+- [Ak Halal Food](https://akhalalfood.com/)
+- [Believe One IT](https://believeoneit.com/)
 
 
 ## How to reach me
