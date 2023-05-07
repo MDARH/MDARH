@@ -1,7 +1,7 @@
 # Hi there, I'm [AbdurRazzaque Hassan] 👋
 ## Experts in cPanel or VPS Server Management and Error Handling.
 
-I'm a full-stack web developer with experience working with Laravel, Vue, and React. I have a passion for creating beautiful and responsive user interfaces that provide a great user experience. My journey started from January, 2018.
+I am a full-stack web developer with experience working with Laravel, Vue, and React. I am passionate about creating beautiful and responsive user interfaces that provide an excellent user experience. My journey started in January 2018.
 
 ## What I do
 
