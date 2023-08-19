@@ -5,11 +5,11 @@ I am a full-stack web developer with experience in Laravel, Vue, and React. My p
 
 ## What I do
 
-- Develop responsive and accessible user interfaces using HTML, CSS, and JavaScript
-- Use modern front-end frameworks like Vue and React to build scalable and modular applications
-- Work with back-end developers to design and implement server-side APIs and databases
-- Write clean and maintainable code that follows industry best practices and coding standards
-- Continuously learn and stay up-to-date with the latest web development technologies and trends
+- Develop responsive and accessible user interfaces using HTML, CSS, and JavaScript.
+- Utilize modern front-end frameworks like Vue and React to construct scalable and modular applications.
+- Collaborate with back-end developers to design and implement server-side APIs and databases, with a particular focus on Laravel.
+- Create clean and maintainable code in adherence to industry best practices and coding standards.
+- Pursue ongoing learning to remain current with the latest web development technologies and trends.
 
 ## Language Skills
 
