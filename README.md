@@ -13,12 +13,6 @@ I am a full-stack web developer with experience in Laravel, Vue, and React. My p
 
 ## Language Skills
 
-![html 5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/ultraviolet/48/000000/css-filetype.png)
-![CSS 3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![PHP](https://img.icons8.com/ios/50/FFFFFF/php-logo.png)
-
 ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![VueJs](https://img.icons8.com/color/48/000000/vue-js.png)
