@@ -1,14 +1,11 @@
-## Laravel 11 & Filament PHP
-I'm creating for reused the admin panel.
-
 # Hi there, I'm [AbdurRazzaque Hassan] 👋
-## Experts in cPanel or VPS Server Management and Error Handling.
+## Experts in cPanel/VPS Server Management and Error Handling.
 
-I am a full-stack web developer with experience in Laravel, Vue, and React. My passion lies in crafting elegant and responsive user interfaces that deliver exceptional user experiences. My journey began in January 2018.
+I am a full-stack web developer with experience in Laravel, Vue, and React. I love to create dynamic websites with a user-friendly admin panel. My journey began in January 2018 and now looking for a position where my skils level will be up.
 
 ## What I do
 
-- Develop responsive and accessible user interfaces using HTML, CSS, and JavaScript.
+- Develop an Admin Panel as clients required then make a responsive Front-end with Vue and TailwindCSS.
 - Utilize modern front-end frameworks like Vue and React to construct scalable and modular applications.
 - Collaborate with back-end developers to design and implement server-side APIs and databases, with a particular focus on Laravel.
 - Create clean and maintainable code in adherence to industry best practices and coding standards.
@@ -37,7 +34,7 @@ I am a full-stack web developer with experience in Laravel, Vue, and React. My p
 
 - [Zippy Footware](https://zippyfootware.com/)
 - [Zippy Leatherware](https://zippyleatherware.com/)
-- [PathSala](https://pathshala-cbs.com/)
+- [PathSala CBS](https://pathshala-cbs.com/)
 - [Coral Condoms](https://coralcondoms-bd.com/)
 - [BSCWSociety](https://www.bscwsociety.org/)
 - [Ak Halal Food](https://akhalalfood.com/)
