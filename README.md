@@ -19,7 +19,7 @@ I am a full-stack web developer with experience in Laravel, Vue, and React. I lo
   
 - React
 - FilamentPHP
-- InertiaJS
+- Inertia
 
 ## Management Tools
 
