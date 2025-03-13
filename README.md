@@ -1,7 +1,7 @@
 # Assalamu Alaikum, I'm [Abdur Razzaque Hassan] 👋
 ## Experts in cPanel/VPS Server Management and Error Handling.
 
-I am a full-stack web developer with experience in Laravel, Vue, and React. I love to create dynamic websites with a user-friendly admin panel. My journey began in January 2018 and now looking for a position where my skils level will be up.
+I am a passionate Full-Stack Web Developer with a strong foundation in Laravel, Vue, and React. As a self-learner, I began my journey in 2017,  and built dynamic web applications, managed deployments, and provided technical support. My experience includes integrating bKash payments, troubleshooting Laravel, Vue, and React issues, and assisting developers through social media. I have managed e-commerce platforms, handled VPS servers with aaPanel and Ubuntu, customized WordPress sites with Astra Premium and Elementor. Additionally, I have contributed to several project enhancements. I am interested in joining a team where I can apply my knowledge and continue growing as a developer.
 
 ## What I do
 
@@ -10,17 +10,21 @@ I am a full-stack web developer with experience in Laravel, Vue, and React. I lo
 - Collaborate with back-end developers to design and implement server-side APIs and databases, with a particular focus on Laravel.
 - Create clean and maintainable code in adherence to industry best practices and coding standards.
 - Pursue ongoing learning to remain current with the latest web development technologies and trends.
+- Always be updated to date.
 
 ## Technology That I Used
 - Laravel
-- TailwindCSS
-- VueJS
+- Vue
 - React
+- TailwindCSS
 - FilamentPHP
+- Breeze
 - Inertia
 
 ## Management Tools
 - Windows
+- Ubuntu
+- aaPanel
 - Git
 - GitHub
 - Laragon
