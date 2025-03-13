@@ -1,4 +1,4 @@
-# Hi there, I'm [AbdurRazzaque Hassan] 👋
+# Assalamu Alaikum, I'm [Abdur Razzaque Hassan] 👋
 ## Experts in cPanel/VPS Server Management and Error Handling.
 
 I am a full-stack web developer with experience in Laravel, Vue, and React. I love to create dynamic websites with a user-friendly admin panel. My journey began in January 2018 and now looking for a position where my skils level will be up.
@@ -12,23 +12,19 @@ I am a full-stack web developer with experience in Laravel, Vue, and React. I lo
 - Pursue ongoing learning to remain current with the latest web development technologies and trends.
 
 ## Technology That I Used
-
 - Laravel
 - TailwindCSS
 - VueJS
-  
 - React
 - FilamentPHP
 - Inertia
 
 ## Management Tools
-
 - Windows
 - Git
 - GitHub
 - Laragon
 - Visual Studio (VS) Code
-- 
 
 ## Projects
 
@@ -53,9 +49,7 @@ I am a full-stack web developer with experience in Laravel, Vue, and React. I lo
 
 ## How to reach me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarh411/). [Telegram](https://t.me/MDARH411) or via email at mdarh411@gmail.com.⋅⋅
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarh411/).[Telegram](https://t.me/MDARH411) or via email at mdarh411@gmail.com.⋅⋅
 I'm also available now [WhatsApp](https://wa.me/message/H4O2U5UQ62RWN1) or Scan below QR Code to reach me.
-
-![WhatsApp](https://i.ibb.co/VTsghqr/wa.jpg)
 
 Thanks for visiting my GitHub profile!
