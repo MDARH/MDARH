@@ -30,6 +30,10 @@ I am a passionate Full-Stack Web Developer with a strong foundation in Laravel, 
 - Laragon
 - Visual Studio (VS) Code
 
+## Portfolio
+
+🌐 **[Visit My Portfolio Website](https://mdarh.github.io)** - A comprehensive showcase of my work, skills, and experience built with Vue.js and Tailwind CSS.
+
 ## Projects
 
 - [Zippy Footware](https://zippyfootware.com/)
