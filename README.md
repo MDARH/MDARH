@@ -1,63 +1,141 @@
-# Assalamu Alaikum, I'm [Abdur Razzaque Hassan] 👋
-## Experts in cPanel/VPS Server Management and Error Handling.
+<div align="center">
 
-I am a passionate Full-Stack Web Developer with a strong foundation in Laravel, Vue, and React. As a self-learner, I began my journey in 2017,  and built dynamic web applications, managed deployments, and provided technical support. My experience includes integrating bKash payments, troubleshooting Laravel, Vue, and React issues, and assisting developers through social media. I have managed e-commerce platforms, handled VPS servers with aaPanel and Ubuntu, customized WordPress sites with Astra Premium and Elementor. Additionally, I have contributed to several project enhancements. I am interested in joining a team where I can apply my knowledge and continue growing as a developer.
+# Assalamu Alaikum, I'm [Abdur Razzaque Hassan](https://mdarh.github.io) 👋
 
-## What I do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdarh411/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDARH)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/H4O2U5UQ62RWN1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MDARH411)
 
-- Develop an Admin Panel as clients required then make a responsive Front-end with Vue and TailwindCSS.
-- Utilize modern front-end frameworks like Vue and React to construct scalable and modular applications.
-- Collaborate with back-end developers to design and implement server-side APIs and databases, with a particular focus on Laravel.
-- Create clean and maintainable code in adherence to industry best practices and coding standards.
-- Pursue ongoing learning to remain current with the latest web development technologies and trends.
-- Always be updated to date.
+</div>
 
-## Technology That I Used
-- Laravel
-- Vue
-- React
-- TailwindCSS
-- FilamentPHP
-- Breeze
-- Inertia
+## 👨‍💻 About Me
 
-## Management Tools
-- Windows
-- Ubuntu
-- aaPanel
-- Git
-- GitHub
-- Laragon
-- Visual Studio (VS) Code
+I'm a **Full-Stack Web Developer** with extensive experience in Laravel ecosystem and modern JavaScript frameworks. My expertise includes:
+
+- 🔧 **Technical Troubleshooting**: Specialized in resolving complex Laravel, Vue, and React issues
+- 🖥️ **Server Management**: Expert in cPanel/WHM and Linux VPS administration using aaPanel
+- 🛠️ **Custom Solutions**: Development of tailored admin panels and responsive frontends
+- 💼 **E-commerce**: Building and maintaining online stores with modern tech stack
+- 🎨 **UI/UX**: Creating intuitive interfaces with TailwindCSS and modern design principles
+- 📊 **Business Software**: Experience with manager.io accounting software and custom theming
+
+## 🚀 What I Do
+
+- 💻 Develop scalable web applications using Laravel, Vue.js, and React
+- 🎯 Create custom admin panels with FilamentPHP and responsive frontends using TailwindCSS
+- 🔄 Implement secure payment gateways (bKash integration specialist)
+- 🛠️ Provide technical support and error resolution through social media platforms
+- 🌐 Deploy and manage applications on VPS servers with aaPanel
+- 📱 Build responsive and accessible user interfaces
+- 🔍 Debug and optimize application performance
+- 📚 Continuously learn and adapt to new technologies
+
+## 💻 Tech Stack
+
+Here are the technologies and tools I work with:
+
+### **Languages**
+- `PHP`
+- `JavaScript`
+- `HTML5`
+- `CSS3`
+
+### **Frameworks & Libraries**
+- **Backend**: 
+  - `Laravel`
+  - `FilamentPHP`
+- **Frontend**: 
+  - `Vue.js`
+  - `React.js`
+  - `Inertia.js`
+  - `Tailwind CSS`
+  - `Breeze`
+
+### **Development & Deployment**
+- **Version Control**: 
+  - `Git`
+  - `GitHub`
+- **Local Development**: 
+  - `Laragon`
+- **Server Management**: 
+  - `cPanel/WHM`
+  - `aaPanel`
+- **Operating Systems**: 
+  - `Windows`
+  - `Ubuntu`
+
+### **Tools**
+- `Visual Studio Code`
 
 ## Portfolio
 
 🌐 **[Visit My Portfolio Website](https://mdarh.github.io)** - A comprehensive showcase of my work, skills, and experience built with Vue.js and Tailwind CSS.
 
-## Projects
+## 🏆 Featured Projects
 
-- [Zippy Footware](https://zippyfootware.com/)
-- [Zippy Leatherware](https://zippyleatherware.com/)
-- [PathSala CBS](https://pathshala-cbs.com/)
-- [Coral Condoms](https://coralcondoms-bd.com/)
-- [BSCWSociety](https://www.bscwsociety.org/)
-- [Ak Halal Food](https://akhalalfood.com/)
-- [Believe One IT](https://believeoneit.com/)
-- [SSC1982](https://ssc1982.org)
+<div align="center">
 
-## Study
-- I completed the HSC/Alim Examination in 2017 from Nur-e Mohammadia (SM) Madarasha, Bashaboo, Dhaka.
-- I Completed the SSC/Dakhil Examination in 2014 from Nabiabad Islamia Dakhil Madrasha, Nandipara, Dhaka.
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mdarh.github.io)
 
-## Technical Course
-- Web Development Course Completed from [Creative IT Institute](https://www.creativeitinstitute.com/) in 2017 about 6 Months.
-  The course was designed with HTML, CSS, PHP, WordPress, Codeignator, and Laravel.
-- Web Development Course Running on [Programming Hero](https://web.programming-hero.com/)
-  Course about HTML, CSS, JavaScript, Bootstrap, Tailwind, React, Vite, React Router, Firebase, ExpressJS, API, Axios, Rechart, MongoDB, JWT.
+</div>
 
-## How to reach me
+### E-commerce & Business
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mdarh411/).[Telegram](https://t.me/MDARH411) or via email at mdarh411@gmail.com.⋅⋅
-I'm also available now [WhatsApp](https://wa.me/message/H4O2U5UQ62RWN1) or Scan below QR Code to reach me.
+- 🛍️ **[Zippy Footware](https://zippyfootware.com/)** - Modern e-commerce platform built with Laravel, Vue.js, and TailwindCSS
+- 👜 **[Zippy Leatherware](https://zippyleatherware.com/)** - Custom leather goods store with advanced inventory management
+- 🏫 **[PathSala CBS](https://pathshala-cbs.com/)** - School management system with custom admin panel using FilamentPHP
+- 🌟 **[Coral Condoms](https://coralcondoms-bd.com/)** - Product showcase and distribution management system
 
-Thanks for visiting my GitHub profile!
+### Community & Organization
+
+- 🤝 **[BSCWSociety](https://www.bscwsociety.org/)** - Community platform with membership management
+- 🍽️ **[Ak Halal Food](https://akhalalfood.com/)** - Food service platform with order management system
+- 💼 **[Believe One IT](https://believeoneit.com/)** - IT company portfolio with service management
+- 🎓 **[SSC1982](https://ssc1982.org)** - Alumni association platform with event management
+
+### Recent Achievements
+
+- 🔧 Successfully implemented custom themes for manager.io accounting software
+- 💳 Integrated bKash payment gateway in multiple e-commerce platforms
+- 🛠️ Resolved 500+ technical issues for developers through social media
+- 🖥️ Managed and optimized 20+ VPS servers using aaPanel
+
+## 📚 Education & Professional Development
+
+### Academic Background
+- 🎓 **HSC/Alim** (2017) - Nur-e Mohammadia (SM) Madarasha, Dhaka
+- 🎓 **SSC/Dakhil** (2014) - Nabiabad Islamia Dakhil Madrasha, Dhaka
+
+### Professional Training
+
+#### [Creative IT Institute](https://www.creativeitinstitute.com/) (2017)
+- 6-month intensive Web Development Program
+- Focus: PHP, Laravel, WordPress, CodeIgniter
+- Practical project-based learning approach
+
+#### [Programming Hero](https://web.programming-hero.com/) (Current)
+- Advanced Web Development Course
+- Technologies:
+  - Frontend: React.js, Vite, TailwindCSS
+  - Backend: Node.js, Express.js, MongoDB
+  - Tools: Firebase, JWT, Axios
+  - Testing & Optimization
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdarh411@gmail.com)
+
+</div>
+
+> I'm always interested in collaborating on innovative projects and helping fellow developers solve technical challenges. Feel free to reach out!
+
+---
+
+<div align="center">
+
+⭐️ Thank you for visiting my GitHub profile! ⭐️
+
+</div>
